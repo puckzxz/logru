@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    oj (3.13.23)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  oj
+
+BUNDLED WITH
+   2.4.1
